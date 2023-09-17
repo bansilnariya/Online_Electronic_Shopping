@@ -1,0 +1,16 @@
+-->This is a electronics online shopping website.
+-->This Project is developing a using a php language.
+-->difreent difreent types of languages using:
+	1.HTML
+	2.CSS
+	3.JAVASCRIPT
+	4.BOOTSTRAP
+	5.PHP
+	6.MYSQL
+-->Admin site Login:
+Username:admin@gmail.com
+Password:admin
+
+-->User site Login:
+Username:test@test.com
+Password:123456789
