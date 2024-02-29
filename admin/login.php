@@ -12,7 +12,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Login - Croma Shope</title>
+        <title>Login - Electronic Shope</title>
         <link rel="shortcut icon" href="bnlogo.png" type="image/x-icon">
         <link href="css/styles.css" rel="stylesheet" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js" crossorigin="anonymous"></script>
@@ -52,7 +52,7 @@
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; Croma Shope 2023</div>
+                            <div class="text-muted">Copyright &copy; Electronic Shope 2023</div>
                         </div>
                     </div>
                 </footer>
